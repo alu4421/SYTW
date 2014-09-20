@@ -19,7 +19,8 @@
 
 ### 3. Instalacion de la gemas
 
-Para la instalacion de la gema de tweeter solamente es necesario introducir: *"gem install tweeter"* y para sinatra: *"gem install sinatra"*
+Para la instalacion de la gema de tweeter solamente es necesario introducir: *"gem install tweeter"* y para sinatra: *"gem install sinatra"*.
+
 ![imagen_instalacion_sinatra](img/install-sinatra.png "Title")
 
 ### 4. Instalacion y configuracion de git
