@@ -10,7 +10,7 @@
 
 - El comando para descargar e instalar ruby es : *"rbenv install 2.1.2"*
 
-![imagen_instalacion_ruby](img/install-ruby.jpg "Title")
+![imagen_instalacion_ruby](img/install-ruby.png "Title")
 
 - Y la forma de establecerlo por defecto es : *"rbenv global 2.1.2"*
 - Finalmente, comprobamos que tengamos la version: *"ruby -v"*
